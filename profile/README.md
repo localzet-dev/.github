@@ -5,7 +5,7 @@
 
 - 👯 We are collaborate with [Exesfull](https://exesfull.com)
 
-- 👨‍💻 All of my projects are available at [https://www.localzet.com](https://www.localzet.com)
+- 👨‍💻 All of our projects are available at [https://www.localzet.com](https://www.localzet.com)
 
 - 📫 Contact us via **support@localzet.com**
 
