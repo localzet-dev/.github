@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, We are Localzet Group</h1>
-<h3 align="center">Alliance of Developers and Researchers</h3>
+<p align="center"><a href="https://www.localzet.com" target="_blank">
+  <img src="https://static.localzet.com/LocalzetGroup.png" width="400">
+</a></p>
+<hr>
 
 - 🔭 We are currently working on [Triangle Web Framework](https://github.com/Triangle-org)
 
