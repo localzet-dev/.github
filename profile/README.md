@@ -1,5 +1,5 @@
 <h1 align="center"><a href="https://www.localzet.com" target="_blank">
-  <img src="https://static.zorin.space/media/logos/LocalzetGroup.png" width="400">
+  <img src="[https://static.zorin.space/media/logos/LocalzetGroup.png](https://static.zorin.space/assets/media/LocalzetGroup.png)" width="400">
 </h1>
 </a>
 <h3 align="center">Creating Innovative Solutions for the Modern World</h3>
